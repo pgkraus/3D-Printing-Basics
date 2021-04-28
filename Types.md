@@ -18,6 +18,7 @@ FDM stands for [Fused Deposition Modeling][fused], sometimes also called FFF or 
 SLS stands for [Selective Laser Sintering][selective].  This technlogy involves using a laser to heat and fuse powdered polymers or metals, ina very similar fashion to how laser-based  SLA machines work.  Thyese are some of the most promising for industrial, medical, and aerospace applications due to the ability to print with nearly any metal.
 ![SLS](https://www.researchgate.net/profile/Li-Yang-281/publication/328604028/figure/fig1/AS:690299277963266@1541591581518/The-SLS-printing-process.png)  
 [Home](https://github.com/pgkraus/3D-Printing-Basics/edit/main/README.md)
+
 [stereo]: https://en.wikipedia.org/wiki/Stereolithography
 [fused]: https://en.wikipedia.org/wiki/Fused_filament_fabrication
 [selective]: https://en.wikipedia.org/wiki/Selective_laser_sintering
